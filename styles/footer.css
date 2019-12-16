@@ -1,0 +1,58 @@
+.footer {
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    height: 43px;
+
+}
+nav {
+    padding-bottom: 13px;
+    color: black;
+    background-color: #cecece;
+    position: fixed;
+    display: grid;
+    text-decoration-line: underline;
+    z-index: 200;
+    width: 100%;
+    top: 0px;
+    height: 35px;
+}
+nav img{
+    margin-top: -7px;
+}
+.Home-Link {
+    color: white;
+    font-size: 31px;
+    text-align: center;
+    text-decoration: underline;
+    padding: 9px;
+}
+.norht-east{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #a7a3a3;
+    width: 75%;
+}
+
+
+
+.Home-Link:hover {
+    color: white;
+    font-size: 25px;
+    border-radius: 20px;
+}
+
+
+
+nav a.active {
+    color: white;
+}
+.Saryn-link{
+
+}

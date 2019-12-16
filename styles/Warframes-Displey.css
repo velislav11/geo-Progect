@@ -1,0 +1,110 @@
+.warframes-display{
+    padding-top: 1px;
+    background-color: #F0F0F0;
+    margin: 3rem;
+    color: white;
+    margin-top: -8px;
+    padding-bottom: 10rem;
+}
+.warframe-nav{
+    display: grid;
+    padding: 50px;
+    grid-template-columns: repeat(11, 8%);
+    grid-gap: 1%;
+}
+.warframe-text{
+    position: absolute;
+    margin-top: -22px;
+    color: white;
+    background-color: #00000099;
+    width: 63px;
+    text-align: center;
+}
+.a{
+    color: black;
+    text-align: center;
+}
+.overview{
+    margin: 3rem;
+    margin-top: 0;
+    padding-top: 26px;
+    font-size: 21px;
+    text-align: center;
+    color: black;
+    background-color: white;
+
+}
+.overview h2{
+    text-align: center;
+    border-bottom-style: solid;
+    width: 25%;
+    border-bottom-color: #a90c2a;
+    margin-left: 39%;
+}
+.foundry div{
+    display: flex;
+}
+.sectione{
+    align-items: center;
+    display: flex;
+
+}
+.boxe{
+    text-align: center;
+    margin-left: 6%;
+    border-right-style: solid;
+    padding-right: 10%;
+    border-radius: 13px;
+}
+.boxe1{
+    height: 87px;
+    text-align: center;
+    margin-left: 10px;
+    border-right-style: solid;
+    padding-right: 121px;
+    border-radius: 13px;
+}
+.boxe-last{
+    margin-left: 10px;
+}
+.abc{
+    text-align: center;
+    margin: 3rem;
+    margin-right: 0rem;
+    background-color: rgb(160, 160, 160);
+    margin-left: 0px;
+    border-style: solid;
+}
+.abc > p{
+    background-color: #1d2046;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.first{
+    display: flex;
+    margin: 3rem;
+}
+.desc{
+    padding-top: 11rem;
+
+}
+.all-warframes{
+    margin-top: 5rem;
+}
+.warframe{
+    margin: 2rem;
+    background-color: #ffffffde;
+}
+.warframe-display-back{
+    position: absolute;
+    margin-left: -3rem;
+    margin-top: 0rem;
+    background-color: #ce0d0df2;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    padding: 19px;
+}
